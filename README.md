@@ -1,4 +1,4 @@
 # bookapp
 
 ## Booking App
-It is related to booking the maids.
+It is related to book the maids.
